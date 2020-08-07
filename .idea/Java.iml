@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/阶段 1：Java语言基础/Java编程入门/04Java基本概念/注释" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段 1：Java语言基础/Java编程入门/04Java基本概念/标识符关键字" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段 1：Java语言基础/Java编程入门/4Java基本概念/标识符关键字" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段 1：Java语言基础/Java编程入门/4Java基本概念/注释" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段 1：Java语言基础/Java编程入门/5Java数据类型划分/01数据类型简介" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段 1：Java语言基础/Java编程入门/5Java数据类型划分/02整型数据类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段 1：Java语言基础/Java编程入门/5Java数据类型划分/03浮点型数据类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段 1：Java语言基础/Java编程入门/5Java数据类型划分/04字符型数据类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段 1：Java语言基础/Java编程入门/5Java数据类型划分/05布尔型数据类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段 1：Java语言基础/Java编程入门/5Java数据类型划分/06String字符串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/4Java基本概念/注释" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/5Java数据类型划分/01数据类型简介" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/5Java数据类型划分/02整型数据类型/Int" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/5Java数据类型划分/05布尔型数据类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/5Java数据类型划分/04字符型数据类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/5Java数据类型划分/02整型数据类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/5Java数据类型划分/03浮点型数据类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/5Java数据类型划分/06String字符串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/4Java基本概念/标识符关键字" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/6Java运算符/1运算符简介" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/6Java运算符/2数学运算符" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/6Java运算符/3关系运算符" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/6Java运算符/4逻辑运算符" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/6Java运算符/5位运算" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/7Java程序逻辑控制/1IF分支结构" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/7Java程序逻辑控制/2SWITCH开关语句" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/7Java程序逻辑控制/2WHILE循环" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/7Java程序逻辑控制/3FOR循环" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/7Java程序逻辑控制/4循环控制" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/7Java程序逻辑控制/5循环嵌套" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/8方法的定义及使用/1方法定义" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/8方法的定义及使用/2方法重载" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/8方法的定义及使用/3方法递归调用" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
