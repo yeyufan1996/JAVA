@@ -36,6 +36,17 @@
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/8方法的定义及使用/1方法定义" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/8方法的定义及使用/2方法重载" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java编程入门/8方法的定义及使用/3方法递归调用" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/1类与对象/3类与对象的定义及使用" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/1类与对象/5对象引用分析" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/1类与对象/6引用与垃圾产生分析" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/2深入分析类与对象/1成员属性封装" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/2深入分析类与对象/2构造方法与匿名对象" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/3this关键字/1this调用本类属性" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/3this关键字/2this调用本类方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/3this关键字/3综合实战简单Java类" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/4static关键字/1声明static属性" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/4static关键字/2声明static方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/4static关键字/3static应用案例" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
