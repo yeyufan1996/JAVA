@@ -47,6 +47,32 @@
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/4static关键字/1声明static属性" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/4static关键字/2声明static方法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/4static关键字/3static应用案例" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/5代码块/1普通代码块" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/5代码块/2构造代码块" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/5代码块/3静态代码块" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/6面向对象案例分析/1案例分析一(Address)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/6面向对象案例分析/2案例分析二(Employee)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/6面向对象案例分析/3案例分析三(Dog)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/6面向对象案例分析/4案例分析四(Account)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/6面向对象案例分析/5案例分析五(User)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/6面向对象案例分析/6案例分析六(Book)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/7数组的定义与使用/1数组的基本定义" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/7数组的定义与使用/2数组引用传递分析" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/7数组的定义与使用/3foreach输出" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/7数组的定义与使用/4二维数组" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/7数组的定义与使用/5数组与方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/7数组的定义与使用/6数组排序案例分析" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/7数组的定义与使用/7数组转置案例分析" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/7数组的定义与使用/8数组相关库表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/7数组的定义与使用/9方法可变参数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/7数组的定义与使用/10对象数组" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/8引用传递实际应用/1类关联结构" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/8引用传递实际应用/2自身关联" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/8引用传递实际应用/3合成设计模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/9数据表与简单Java类映射转换/1数据表与简单Java类映射转换" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/9数据表与简单Java类映射转换/2一对多映射" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/9数据表与简单Java类映射转换/3多对多映射" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/9数据表与简单Java类映射转换/4复杂多对多映射" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
