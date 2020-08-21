@@ -73,6 +73,13 @@
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/9数据表与简单Java类映射转换/2一对多映射" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/9数据表与简单Java类映射转换/3多对多映射" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/9数据表与简单Java类映射转换/4复杂多对多映射" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/10String类特点分析/1String类简介" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/10String类特点分析/2字符串比较" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/10String类特点分析/3字符串常量" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/10String类特点分析/4String类对象两种实例化方式比较" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/10String类特点分析/5String对象常量池" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/10String类特点分析/6字符串修改分析" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/10String类特点分析/7主方法组成分析" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
