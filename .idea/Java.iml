@@ -80,6 +80,17 @@
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/10String类特点分析/5String对象常量池" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/10String类特点分析/6字符串修改分析" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/10String类特点分析/7主方法组成分析" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/1JavaDoc文档简介" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/2字符串与字符数组" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/3字符串与字节" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/4字符串比较" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/5字符串查找" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/6字符串替换" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/7字符串拆分" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/8字符串截取" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/9字符串格式化" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/10其他操作方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阶段1Java语言基础/Java面向对象编程/11String类常用方法/3字符串与字节数组" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
